@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+/** Mavericks source mode */
+
+.cm-s-typora-default .cm-header,
+.cm-s-typora-default .cm-property {
+    color: #81cae4;
+}
+
+.CodeMirror.cm-s-typora-default div.CodeMirror-cursor {
+    border-left: 3px solid #dadada;
+}
+
+.cm-s-typora-default .cm-comment {
+    color: #666666;
+}
+
+.cm-s-typora-default .cm-string {
+    color: #a8e396;
+}
+
+.cm-s-typora-default .cm-atom,
+.cm-s-typora-default .cm-number {
+    color: #e49c81;
+    font-style: italic;
+}
+
+.cm-s-typora-default .cm-link {
+    color: #81e2e4;
+}
+
+.cm-s-typora-default .CodeMirror-activeline-background {
+    background: rgba(18, 29, 33, 0.72);
+}
+
+.cm-s-typora-default .cm-comment,
+.cm-s-typora-default .cm-code {
+    color: #ab96e3;
+}
